@@ -1,0 +1,10 @@
+
+:root {
+  background: url(./assets/img/day-background.jpg);
+  background-size: cover;
+}
+
+.dark {
+  background: url(./assets/img/night-background.jpg);
+  background-size: cover;
+}
