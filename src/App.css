@@ -1,10 +1,11 @@
-
 :root {
   background: url(./assets/img/day-background.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .dark {
   background: url(./assets/img/night-background.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
 }
